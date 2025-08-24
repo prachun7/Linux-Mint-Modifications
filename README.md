@@ -14,8 +14,8 @@ This project involves exploring, modifying, and rebuilding the **Linux Mint** op
   - The desktop wallpaper changes automatically after interacting with the pop-up messages.
 
 ### Tools and Environment
-- **Host OS:** Windows 10  
-- **Guest OS:** Linux Mint 21 “Vanessa” (VirtualBox VM)  
+- **Host OS:** Mac OS 
+- **Guest OS:** Linux Mint 22.1 “Cinnamon Edition” (VirtualBox VM)  
 - **Tools Used:** Git, GCC, Make, Vim/Nano, VS Code, VirtualBox  
 - **Dependencies:** `build-essential`, `libc6-dev`, `libgtk-3-dev`, kernel headers  
 
